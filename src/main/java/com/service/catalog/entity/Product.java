@@ -22,4 +22,5 @@ public class Product {
     private String description;
     private Float price;
     private String categoryId;
+    private String img;
 }
